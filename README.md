@@ -73,19 +73,19 @@ The AI was instructed to behave as an educational ECG mentor. Its instructions i
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.PNG)
 
 ---
 
 ### ECG Analysis
 
-![Analysis](screenshots/analysis.png)
+![Analysis](screenshots/analysis.PNG)
 
 ---
 
 ### AI Response
 
-![AI Response](screenshots/result.png)
+![AI Response](screenshots/result.PNG)
 
 ---
 
